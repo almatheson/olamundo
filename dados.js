@@ -78,4 +78,11 @@ let dados =
     link: "https://pt.wikipedia.org/wiki/Língua_turca",
     tags: "turco turquia ásia"
   },
+  {
+  titulo: "Tupi-Guarani",
+  descricao: "Anhenã, yvy!",
+  link: "https://pt.wikipedia.org/wiki/L%C3%ADnguas_tupi-guaranis",
+  tags: "índio tupi guarani tribo brasil"
+},
+
 ];
